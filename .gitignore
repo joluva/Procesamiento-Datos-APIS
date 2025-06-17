@@ -1,0 +1,23 @@
+# Entornos virtuales
+venv/
+.venv/
+
+# Archivos de entorno
+.env
+
+# Outputs de Python
+*.pyc
+__pycache__/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs y archivos temporales
+*.log
+*.tmp
+
+
+# Sistema operativo
+.DS_Store      # macOS
+Thumbs.db      # Windows
