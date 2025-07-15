@@ -8,6 +8,7 @@ b=np.array([[10,11,12],[12,14,15]])
 
 # Sumar los arreglos a y b
 suma=np.add(a,b)
+
 print("\nSalida suma de array A y B, utilizando numpy\n")
 print(suma)
 print("\n-------------------------------------------")
